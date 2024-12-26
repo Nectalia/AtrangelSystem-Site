@@ -1,0 +1,7 @@
+*.js        binary
+*.js.map    binary
+*.css       binary
+*.css.map   binary
+
+.gitignore          eol=lf encoding=utf8 diff=utf8
+.gitattributes      eol=lf encoding=utf8 diff=utf8
